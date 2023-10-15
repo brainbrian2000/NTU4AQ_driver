@@ -1,0 +1,8 @@
+#line 1 "E:\\.NTU\\IPCS\\NTU4AQ\\library\\PMU_AllSystem_V1.2.4_autoset\\.vscode\\arduino.json"
+{
+    "port": "COM10",
+    "configuration": "cpu=8MHzatmega328",
+    "board": "arduino:avr:pro",
+    "sketch": "PMU_AllSystem_V1.2.4_autoset.ino",
+    "output": "./build"
+}

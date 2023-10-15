@@ -1,0 +1,6 @@
+{
+    "port": "COM10",
+    "configuration": "cpu=8MHzatmega328",
+    "board": "arduino:avr:pro",
+    "sketch": "AirBox_AllSystem_V_1.0.b_MTNet_temperature.ino"
+}
