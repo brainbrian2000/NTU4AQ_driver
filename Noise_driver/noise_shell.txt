@@ -1,0 +1,1 @@
+C:\Users\brain\AppData\Local\Arduino15\packages\arduino\tools\bossac\1.7.0-arduino3\bossac.exe -i -d --port=COM6 -U  true -i -e -w -v DBA_V3_SAMD21_NTU_version.ino.arduino_zero.bin -R

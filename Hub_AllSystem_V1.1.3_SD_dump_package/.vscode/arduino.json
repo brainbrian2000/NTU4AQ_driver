@@ -1,0 +1,6 @@
+{
+    "port": "COM4",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "sketch": "V1.1.3_SD_dump_master\\V1.1.3_SD_dump_master.ino"
+}

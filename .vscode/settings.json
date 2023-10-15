@@ -1,0 +1,4 @@
+{
+    "arduino.path": "C:\\Program Files (x86)\\Arduino",
+    "cmake.sourceDirectory": "${workspaceFolder}/ArduinoLibrary/libraries/ArduinoJson"
+}
